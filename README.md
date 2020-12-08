@@ -7,4 +7,4 @@
 5. Install Colorama <code>pip install colorama</code>
 
 To start full test, enter <code>bookshop.py full_test</code> <br/>
-To start discount test, enter <code>bookshop.py discount <from quantity> <to quantity></code>
+To start discount test, enter <code>bookshop.py discount \<from quantity\> \<to quantity\></code>
