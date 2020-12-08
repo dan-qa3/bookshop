@@ -1,7 +1,7 @@
 # bookshop
 
 To start the autotest in Firefox, follow the instruction <br>
-To start the autotest in Chrome, change in code <code></code>
+To start the autotest in Chrome, change in code <code>driver = webdriver.Firefox()</code> to <code>driver = webdriver.Chrome()</code>
 
 1. Download Geckodriver for Firefox https://github.com/mozilla/geckodriver/releases and put it into the directory with bookshop.py
 OR
