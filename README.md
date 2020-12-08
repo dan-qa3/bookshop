@@ -5,4 +5,6 @@
 3. Install Selenium "pip install selenium"
 4. Install Fire "pip install fire"
 5. Install Colorama "pip install colorama"
-6. To start full test enter "bookshop.py full_test"
+
+To start full test enter "bookshop.py full_test"
+To start discount test enter "bookshop.py discount <from quantity> <to quantity>"
