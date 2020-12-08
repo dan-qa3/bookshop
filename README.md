@@ -1,6 +1,6 @@
 # bookshop
 
-1. Download Geckodriver for Firefox https://github.com/mozilla/geckodriver/releases
+1. Download Geckodriver for Firefox https://github.com/mozilla/geckodriver/releases and put it into the directory with bookshop.py
 2. Install Python https://www.python.org/downloads/
 3. Install Selenium "pip install selenium"
 4. Install Fire "pip install fire"
